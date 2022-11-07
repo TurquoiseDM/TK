@@ -2,7 +2,7 @@ import csv
 from SPARQL_utils import *
 from utils import *
 
-
+啊哈哈
 def get_info_from_s(prop, wde):
     header_list = ["s", "sLabel", "st_num", "typeLabel", "quantity", "unitLabel", "time", "st_temp"]
     skip = True
